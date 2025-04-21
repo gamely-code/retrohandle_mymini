@@ -5,11 +5,11 @@ Game Devices for Linux and Android
 # Download Links
 ## Boot From the TF Card
 ### MyMini
-Download [Google Drive](https://drive.google.com/file/d/1D0GKIrfiPqtSCWjP2qBSSUY6VBmrP_X2/view?usp=sharing) 
+Download [Google Drive](https://drive.google.com/file/d/1hlTrubZV_BH0pr6QsOgwyguxUDG0gpmv/view?usp=sharing) 2025-4-21
 
 ## Boot From the Flash
 ### MyMini
-Download [Google Drive](https://drive.google.com/file/d/1GCPAekLrIzKqqq8XW6Y9sjpI1KLeY45k/view?usp=sharing) 
+Download [Google Drive](https://drive.google.com/file/d/1K3rGInVcj-sgK8jph2Bpuu98KqiZyESJ/view?usp=sharing) 2025-4-21
 
 
 
